@@ -204,4 +204,3 @@ function ExampleComponent() {
 
 > Остались вопросы или нужна консультация?  
 >Пишите в телеграм: [@e_kucheriavyi](https://t.me/e_kucheriavyi)
-
