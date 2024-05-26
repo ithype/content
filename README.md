@@ -19,3 +19,7 @@
 ## YouTube
 
 https://www.youtube.com/@ITHype-pro
+
+## Telegram
+
+https://t.me/ithype_pro
