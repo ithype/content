@@ -15,3 +15,7 @@
 - [Почему нельзя использовать `import *` в Python](/articles/pochemu-nelzya-ispolzovat-import-all/)
 - [Волшебство связей в SQLAlchemy](/articles/volshebstvo-svyazey-sqlalchemy/)
 - [Введение в CRUD-оперции в SQLAlchemy](/articles/vvedenie-v-crud-operacii-s-sql-alchemy/)
+
+## YouTube
+
+https://www.youtube.com/@ITHype-pro
